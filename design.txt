@@ -1,0 +1,21 @@
+Design of the CYOA game:
+	HEALTH: +medic, -wounds
+	STRENGTH: +food, +rest, -hunger, -exhaustion
+
+	STORY: The power is out. You are tyring to get home in New York City.
+
+		The time it 20:00. You have four hours. Some decisions will cost more time than others.
+
+		FIRST DECISION: You need a source of light. Your phone is at 15%.
+			1. Use your phone flashlight (20:00)
+				a. Losing power
+			2. Buy a real flashlight (20:15)
+				a. Losing power
+				b. Bad reputation
+				
+
+		SECOND DECISION: Now that you have light, time to start heading home.
+			1. West
+			2. North
+
+
